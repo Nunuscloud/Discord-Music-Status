@@ -1,4 +1,0 @@
-# Requirements for Vibe Check
-# Python 3.10 or higher recommended
-
-pypresence==4.3.0
